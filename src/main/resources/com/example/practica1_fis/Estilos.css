@@ -1,0 +1,11 @@
+
+#Almacen{
+    -fx-background-color: #BFF7F7 ;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+}
+
+#Almacen.rectangle{
+    -fx-border-radius: 10px;
+}
